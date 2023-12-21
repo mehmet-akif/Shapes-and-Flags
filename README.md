@@ -8,7 +8,7 @@ This project showcases geometric shapes (triangle, square, pentagon, hexagon) an
 
 ![Shapes and Flags Preview](preview.png)
 
-For an interactive experience, check out the live website: https://www.cs.ryerson.ca/~asipahi/lab07b.html
+For an interactive experience, check out the live website: https://cs.torontomu.ca/~asipahi/lab06.html
 
 ## Technologies Used
 - HTML
