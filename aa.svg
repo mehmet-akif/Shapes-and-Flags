@@ -1,0 +1,18 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Yellow Triangle -->
+  <polygon points="40,10 80,90 0,90" stroke="black" stroke-width="2" fill="yellow" />
+
+  <!-- Blue Square -->
+  <rect x="105" y="10" width="80" height="80" stroke="black" stroke-width="2" fill="blue" />
+
+
+
+
+  <!-- Pink Pentagon -->
+  <polygon points="250 3,300 28,282 90,220 90,203 28" stroke="black" stroke-width="2" fill="pink" />
+
+
+
+  <!-- Green Hexagon (After Pink Pentagon) -->
+  <polygon points="360 3,410 28,410 75, 360 100,313 75,313 25" stroke="black" stroke-width="2" fill="green" />
+</svg>
