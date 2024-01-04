@@ -4,9 +4,7 @@
 ## Description
 This project showcases geometric shapes (triangle, square, pentagon, hexagon) and flags (Germany and Hungary) created using SVG (Scalable Vector Graphics). The HTML file contains SVG elements defining these shapes and flags, demonstrating how SVG can render various shapes and national flags in a web environment.
 
-# Screenshots
-
-![Shapes and Flags Preview](preview.png)
+# Link
 
 For an interactive experience, check out the live website: https://cs.torontomu.ca/~asipahi/lab06.html
 
